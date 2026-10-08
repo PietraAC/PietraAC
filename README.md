@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a **Junior Software Developer** and Computer Engineering student at UTFPR. I like taking real-world problems, understanding what is actually getting in the way, and translating them into code—especially when an automated solution can save time and make someone's day a little easier.
+I'm a **Junior Software Developer** and Computer Engineering student at UTFPR. I like taking real-world problems, understanding what is actually getting in the way, and translating them into code, especially when an automated solution can save time and make someone's day a little easier.
 
 When I'm away from the keyboard, I'm probably playing video games or solving a Rubik's Cube. Both scratch the same itch as programming: spotting patterns, trying new strategies, and enjoying that satisfying moment when everything clicks into place.
 
