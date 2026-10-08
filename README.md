@@ -1,4 +1,4 @@
-# Heeeey, Nice to meet you 👋
+# Heeeey, nice to meet you 👋
 
 ## About me
 
