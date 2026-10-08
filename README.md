@@ -1,4 +1,4 @@
-# Hi, I'm Pietra 👋
+# Heeeey, Nice to meet you 👋
 
 ## About me
 
