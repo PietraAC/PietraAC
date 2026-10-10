@@ -20,11 +20,23 @@ When I'm away from the keyboard, I'm probably playing video games or solving a R
 
 ## What I'm working on
 
-### [GymFlow](https://github.com/PietraAC/GymFlow)
+### [GymFlow](https://github.com/PietraAC/GymFlow) [![CI](https://github.com/PietraAC/GymFlow/actions/workflows/ci.yml/badge.svg)](https://github.com/PietraAC/GymFlow/actions/workflows/ci.yml)
 
 A microservices portfolio project where gyms manage branches and equipment inventory, while students create workout plans restricted to exercises available at their selected branch.
 
 The current version uses Java 21, Spring Boot, Angular, PostgreSQL, Flyway, Docker, Keycloak, and RabbitMQ. It also includes structured AI-assisted workout suggestions with human review, backend validation, and an event-driven inventory flow built with the transactional outbox pattern.
+
+[![GymFlow dark-blue workout interface](https://raw.githubusercontent.com/PietraAC/GymFlow/main/docs/assets/gymflow-home-stage6.png)](https://github.com/PietraAC/GymFlow)
+
+**Engineering highlights**
+
+- Service-owned PostgreSQL databases and versioned Flyway migrations
+- OAuth 2.0/OIDC with PKCE, audience validation, role isolation, and token-derived ownership
+- Reviewable AI proposals with schema validation, expiration, idempotency, and authoritative eligibility checks
+- RabbitMQ inventory events with a transactional outbox and idempotent consumer
+- GitHub Actions covering backend integration tests, Angular tests/build, and an authenticated Playwright journey
+
+[Explore the repository](https://github.com/PietraAC/GymFlow) · [Read the architecture](https://github.com/PietraAC/GymFlow/blob/main/docs/architecture.md) · [View CI](https://github.com/PietraAC/GymFlow/actions)
 
 ## What I care about
 
